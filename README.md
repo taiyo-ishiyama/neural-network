@@ -13,3 +13,5 @@ This program is written using Mac OS
 
 ## The use of the program
 ** 4 different testcases are involved in the source code. However, the users are allowed to change the learning environment by adjusting the value for epoch, mini-batch size, and learning rate.
+
+** As the data set is too big to upload on GitHub, please prepare "fasion mnist" data set on your own.
